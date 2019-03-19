@@ -9,7 +9,7 @@ n = int(n)
 
 jumlah = 0
 
-for i in range(n+1):
+for i in range(n):
     if (i % 3 == 0) or (i % 5 == 0):
         jumlah = jumlah + i
 
