@@ -11,5 +11,5 @@ This program use python as base language
 1. Install python 3.6
 2. Open commandline and go to directory you save the code
 ``` 
-python "program 1.py"
+python "problem 1.py"
 ```
